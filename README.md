@@ -25,7 +25,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/nirholas/sperax-crypto-mcp
+git clone https://github.com/sperax/sperax-crypto-mcp
 cd sperax-crypto-mcp
 
 # Install dependencies
